@@ -1,19 +1,19 @@
 # Adidas Sales Analysis (Python & Power BI)
 End-to-end sales and profitability analysis using Power BI
 
-## 📌 Project Overview
+## Project Overview
 This project performs an end-to-end analysis of Adidas sales data to evaluate sales performance, profitability, and operational efficiency across products, regions, retailers, and sales channels.
 
 Python was used for data cleaning, feature engineering, and exploratory data analysis (EDA), followed by Power BI for interactive dashboarding and business insights.
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 :- **Python**: Pandas, NumPy, Matplotlib, Seaborn  
 :- **Power BI**: DAX, Data Modeling, Interactive Dashboards  
 :- **Excel / CSV**: Data source handling  
 
 ---
 
-## 🔍 Data Analysis Workflow
+##  Data Analysis Workflow
 1. Data cleaning and preprocessing using Pandas  
 2. Feature engineering (profit per unit, time-based features, efficiency metrics)  
 3. Exploratory Data Analysis (EDA) using Matplotlib and Seaborn  
@@ -22,7 +22,7 @@ Python was used for data cleaning, feature engineering, and exploratory data ana
 
 ---
 
-## 📊 Power BI Dashboards
+## Power BI Dashboards
 ### 1. Executive Overview
 - Total Sales, Total Operating Profit
 - Average Operating Margin
@@ -40,11 +40,42 @@ Python was used for data cleaning, feature engineering, and exploratory data ana
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 - In-store sales generate the highest overall operating profit
 - Certain regions exhibit high revenue but lower operating margins
 - Some product categories drive volume but contribute less profit per unit
 - Channel efficiency analysis highlights opportunities for pricing and cost optimization
+
+
+## Project Structure
+  Adidas-Sales-Analysis/
+├── Dataset/
+│ └── adidas_sales.csv
+├── Python_Notebooks/
+│ └── adidas_sales_analysis.ipynb
+├── PowerBI/
+│ └── Adidas_Sales_Analysis.pbix
+├── Dashboard_Screenshots/
+│ ├── Executive_Overview.png
+│ ├── Channel_Performance.png
+│ └── Product_Performance.png
+└── README.md
+
+
+---
+
+## Business Use Case
+This analysis helps business and operations teams to:
+- Improve product mix decisions
+- Identify high-margin sales channels
+- Optimize regional and retailer-level performance
+- Support data-driven operational planning
+
+---
+
+##  Author
+**Prityush Kumar Choubey**  
+Aspiring Data Analyst | Operations & Business Analytics
 
 
 ## 📁 Project Structure
